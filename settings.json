@@ -8,7 +8,7 @@
   "server": {
     "ip": "challangemc.aternos.me",
     "port": 40883,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
